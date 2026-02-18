@@ -1,0 +1,24 @@
+{
+  "name": "@stravigor/create",
+  "version": "0.5.6",
+  "type": "module",
+  "description": "Scaffold a new Strav application",
+  "license": "MIT",
+  "keywords": [
+    "strav",
+    "stravigor",
+    "bun",
+    "framework",
+    "scaffold",
+    "create"
+  ],
+  "bin": {
+    "@stravigor/create": "./src/index.ts"
+  },
+  "files": [
+    "src/",
+    "package.json",
+    "README.md",
+    "CHANGELOG.md"
+  ]
+}
