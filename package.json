@@ -1,6 +1,6 @@
 {
   "name": "@stravigor/create",
-  "version": "0.5.6",
+  "version": "0.5.9",
   "type": "module",
   "description": "Scaffold a new Strav application",
   "license": "MIT",

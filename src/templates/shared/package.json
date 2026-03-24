@@ -11,6 +11,7 @@
   "dependencies": {
     "@stravigor/kernel": "__CORE_VERSION__",
     "@stravigor/http": "__CORE_VERSION__",
+    "@stravigor/view": "__CORE_VERSION__",
     "@stravigor/database": "__CORE_VERSION__",
     "@stravigor/cli": "__CORE_VERSION__",
     "luxon": "^3.7.2",
